@@ -1,12 +1,12 @@
 # Fundamentos-de-Informatica-Urbana-Procesamientos-de-Datos
-Materia de la FING sobre análisis y procesamientos de datos con visualizaciones de mapas urbanos. 
+Análisis y procesamientos de datos con visualizaciones de mapas urbanos.
 
 Tema del Trabajo:
 Variaciones de precios de 3 bienes de consumo según la cadena y ubicación de los supermercados
 en la ciudad de Montevideo.
 
 Objetivo:
-Aplicar los métodos y técnicas de análisis de datos aprendidos para mostrar las variaciones de
+Aplicar los métodos y técnicas de análisis de datos para mostrar las variaciones de
 precios de bienes de consumo, y como estos son afectados dependiendo del barrio (ubicación
 geográfica) y cadena de supermercado.
 
